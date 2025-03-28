@@ -1,0 +1,10 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(í“ÍŞ8ü«ÈÄİ2
+w
+java:S3008"URename this field "SEQUENCIAL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞËçßúÿÿÿÿ8åÙîÄİ2
+V
+java:S5993"9Change the visibility of this constructor to "protected".(ÇŸğã8åÙîÄİ2
+L	java:S1060"+Replace this use of System.out by a logger.(è­²¢ûÿÿÿÿ8ÚîÄİ2
+L	java:S1061"+Replace this use of System.out by a logger.(Õ¬¦Şÿÿÿÿÿ8ÚîÄİ2
+L	java:S1062"+Replace this use of System.out by a logger.(…ç…—úÿÿÿÿ8„ÚîÄİ2
+L	java:S1063"+Replace this use of System.out by a logger.(À¦§‚ÿÿÿÿÿ8„ÚîÄİ2

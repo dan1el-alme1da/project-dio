@@ -1,29 +1,17 @@
 package Atividade_01;
 
-public class ContaCorrente {
-    private int numero;
-    private int agencia;
-    private double saldo;
-
-    public void sacar(){
-
-    }
-    public void depositar(){
-
-    }
-    public void transeferir(){
-
+public class ContaCorrente extends Conta{
+    public ContaCorrente(Cliente cliente) {
+        super(cliente);
     }
 
-    public int getNumero() {
-        return numero;
+    @Override
+    public void imprimirExtrato() {
+        System.out.println("=== Extrato Conta Corrente ===");
+        super.imprimirInfosComuns();
     }
 
-    public int getAgencia() {
-        return agencia;
-    }
-
-    public double getSaldo() {
-        return saldo;
-    }
 }
+
+
+
