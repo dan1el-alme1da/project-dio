@@ -16,3 +16,8 @@ Y
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+:
+
+sudoku.iml,5\d\5d94fbb99f3d0d49af5c2987a201e07cb37565c3
+V
+&src/br/com/dio/util/BoardTemplate.java,a\3\a3e0a0ecd9d9d5eef2beab39af1b1c60fd276851
