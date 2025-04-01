@@ -1,5 +1,4 @@
 package br.com.dio.model;
-
 import java.util.Collection;
 import java.util.List;
 
@@ -10,7 +9,7 @@ import static java.util.Objects.isNull;
 import static java.util.Objects.nonNull;
 
 public class Board {
-
+    private static final GameStatusEnum NON_STARTED = ;
     private final List<List<Space>> spaces;
 
     public Board(final List<List<Space>> spaces) {
@@ -65,5 +64,4 @@ public class Board {
     public boolean gameIsFinished(){
         return !hasErrors() && getStatus().equals(COMPLETE);
     }
-
 }
